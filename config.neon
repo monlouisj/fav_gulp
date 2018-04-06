@@ -1,0 +1,15 @@
+fonts:
+    - #Here starts font declaration
+        family:	Pacifico
+        variants:
+            - 400
+        subsets:
+            - latin
+            - latin-ext
+    - #Here starts font declaration
+        family:	'Slabo 27px'
+        variants:
+            - 400
+        subsets:
+            - latin
+            - latin-ext
